@@ -8,8 +8,6 @@ Input lambda:
 Type Json
 
 {
-"queryStringParameters": {
-"phone_number": "+5511999999999",
-"message": "Teste de envio de SMS via AWS LambdaGOLANG e SNS!"
-}
+"phone_number":"+5511999999999",
+"message":"Olá teste"
 }
